@@ -1,3 +1,6 @@
+# start docker-compose
+```docker-compose up```
+
 # login to docker
 `docker exec -it kafka-1 /bin/bash`
 
